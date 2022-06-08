@@ -18,3 +18,6 @@ skis.unshift(true)
 # Index positions refer to the position an element is in the array, starting with 0.
 # For example, if I want to call the first element in the loves Array, I will have to use index position 0. (The output should be "Porter".)
 loves[0]
+
+#If I wanted to call the "Monty" element, it is in the 2nd index position.
+loves[2]
