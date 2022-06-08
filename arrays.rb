@@ -19,6 +19,10 @@ p numbers
 skis.unshift(true)
 p skis
 
+# The delete_at method will delete an element at a specified index position. In this case, I will delete the "Corey" element which is at the index position 1.
+loves.delete_at(1)
+p loves
+
 # Index positions refer to the position an element is in the array, starting with 0.
 # For example, if I want to call the first element in the loves Array, I will have to use index position 0. (The output should be "Porter".)
 p loves[0]
