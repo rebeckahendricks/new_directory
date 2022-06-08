@@ -27,5 +27,5 @@ p loves
 # For example, if I want to call the first element in the loves Array, I will have to use index position 0. (The output should be "Porter".)
 p loves[0]
 
-#If I wanted to call the "Monty" element, it is in the 2nd index position.
-p loves[2]
+#If I wanted to call the "Monty" element, it is (now) in index position 1.
+p loves[1]
