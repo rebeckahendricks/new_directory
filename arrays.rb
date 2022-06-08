@@ -14,3 +14,7 @@ numbers.shift
 
 # The unshift method will add an element to the beginning of the array (and therefore shift all other elements one index position). In this case, it will add a true Boolean element at the beginning of the current array.
 skis.unshift(true)
+
+# Index positions refer to the position an element is in the array, starting with 0.
+# For example, if I want to call the first element in the loves Array, I will have to use index position 0. (The output should be "Porter".)
+loves[0]
